@@ -1,0 +1,3 @@
+What type of a program is this ?
+1.C				2.Java
+3.C++				4.Python

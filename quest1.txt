@@ -1,0 +1,15 @@
+Q.Who is the current President of India?
+1.Pranab Mukherjee     2.Indira Gandhi
+3.Narendra Modi        4.Manmohan Singh
+d
+Q.Who is called 'The Flying Sikh'?
+1.Milkha Singh            2.Navjot Singh Sidhu
+3.Harbhajan Singh         4.Bharti Singh
+d
+Q.Which is the largest country in terms of area?
+1.Russia		      2.India
+3.Australia                   4.USA
+d
+
+
+

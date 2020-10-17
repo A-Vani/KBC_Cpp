@@ -1,0 +1,13 @@
+Q.How many Kilobytes make a Megabyte?
+1.2048		      2.512
+3.128		     4.1024
+d
+Q.What is study of earthquakes called?
+1.Ecology		     2.Epicentre
+3.Geology		     4.Seismology
+d
+Q.Who sang the song 'Blank Space'?
+1.Ellie goulding	     2.Katy perry
+3.Ariana grande	             4.Taylor swift
+d
+
